@@ -1,0 +1,5 @@
+# Testar com "client_test4.txt"
+WRITE [(chave_um,0)(chave_dois,0)(chave_tres,0)(chave_quatro,0)]
+WAIT 5000
+WRITE [(chave_um,1)(chave_dois,1)(chave_tres,1)(chave_quatro,1)]
+DELETE [chave_um,chave_quatro]

@@ -1,0 +1,6 @@
+DELAY 1000
+SUBSCRIBE [chave_um]
+SUBSCRIBE [chave_dois]
+SUBSCRIBE [chave_tres]
+DELAY 6000
+DISCONNECT

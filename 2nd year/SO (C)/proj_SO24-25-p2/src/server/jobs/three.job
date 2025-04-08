@@ -1,0 +1,9 @@
+# Testar com "client_test2.txt" ou "client_test3.txt"
+WRITE [(key,Value_One)(AnotherKey,AnotherValue)]
+WAIT 5000
+WRITE [(key,Value_Two)]
+WRITE [(key,Value_Three)]
+WAIT 1000
+WRITE [(key,Value_Four)]
+DELETE [key]
+WRITE [(key,Value_Five)]
