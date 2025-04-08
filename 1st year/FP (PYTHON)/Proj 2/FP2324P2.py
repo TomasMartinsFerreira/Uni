@@ -1,11 +1,3 @@
-"""
-Grade : 17.86 out of 20 (SOLO PROJECT)
-The 2nd Programming Fundamentals project involves writing a Python program to play Go.
-Must define abstract data types and implement functions to manage game information.
-Try it out by removing the "#" in the line 700.
-"""
-# ========== START OF CODE ==========
-
 def eh_intersecao(intersecao):
     '''
     Devolve True caso o seu argumento seja um TAD intersecao e False caso contrario.
@@ -693,8 +685,6 @@ def go(n,tuplo_branco,tuplo_preto):
             print(goban_para_str(goban))
 
     return pontos[0]>pontos[1]
-
-
 
 
 #go(9, (), ())
