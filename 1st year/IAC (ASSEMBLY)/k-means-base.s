@@ -1,14 +1,3 @@
-# GRADE : 19,15 out of 20 (GROUP PROJECT)
-# The goal of the project is to develop a program in RISC-V assembly,
-# that uses the k-means algorithm to group points in a 2D space. 
-# Given a set of points, the program will identify k groups based on how close the points are to each other.
-#
-
-
-
-
-# ========== START OF CODE ==========
-
 # IAC 2023/2024 k-means
 # 
 # Grupo: Team BuzzCut

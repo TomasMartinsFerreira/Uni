@@ -1,12 +1,3 @@
-/*
-Grade: 19.6 out of 20 (SOLO PROJECT)
-Sorting the board by adding one tent on the possibles spots and 
-redoing that until one position works.
-*/
-
-
-% ========== START OF CODE ==========
-
  :- use_module(library(clpfd)). % para poder usar transpose/2
  :- set_prolog_flag(answer_write_options,[max_depth(0)]). % ver listas completas
  :- ['puzzlesAcampar.pl']. % Ficheiro dado. No Mooshak tera mais puzzles.
