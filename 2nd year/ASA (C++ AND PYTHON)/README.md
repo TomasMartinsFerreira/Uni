@@ -1,7 +1,7 @@
 # Analysis and Synthesis of Algorithms
 
 
-# 📊 Project Grades  
+# 📊 Project Grades  (GROUP PROJECT)
 
 | Grade          | Score      |  
 |----------------|------------|  
