@@ -1,3 +1,12 @@
+# 🌐 README - EN | PT
+
+## 📑 Table of Contents | Índice
+
+- [🇬🇧 English](#-english)
+- [🇵🇹 Português](#-português)
+
+## 🇬🇧 English
+
 # 🎓 University Projects Repository
 
 Welcome to my University repository!  
@@ -20,7 +29,7 @@ These projects showcase my experience with various programming languages, includ
 ## 🚀 Projects
 Projects are organized by language and topic, and are continually being updated as I work on new ones.  
 
-------------------------------------------------------------------------------------------------
+## 🇵🇹 Português
 
 # 🎓 Repositório de Projetos Universitários
 
