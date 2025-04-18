@@ -3,11 +3,6 @@
 **🏆 Final Grade:** 20/20 (Group Project)
 **⏱️ Average Selection Time:** 2,487 ms  
 
-**🔗 Try it here:** [Interactive Demo](https://editor.p5js.org/ist1109881/full/4aymbJRFa)  
-*(Use `111111` and `14` as input values for testing.)*  
-
----
-
 ## 🚀 **Project Goal**  
 Reduce target selection time in a **high-density interface (80 targets)** through optimized interaction design.  
 
@@ -31,5 +26,5 @@ Reduce target selection time in a **high-density interface (80 targets)** throug
 
 ## 🛠️ **Try It Yourself!**  
 1. Open the [demo link](https://editor.p5js.org/ist1109881/full/4aymbJRFa).  
-2. Enter `111111` and `14` to test the optimized selection.  
+2. Enter `11111` and `14` to test the optimized selection.  
 3. Observe speed and accuracy gains!  
