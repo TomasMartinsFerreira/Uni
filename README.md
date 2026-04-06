@@ -16,11 +16,11 @@ Here you'll find a collection of the academic projects I've worked on throughout
 These projects showcase my experience with various programming languages, including:
 
 - **Python** 1st and 2nd year
-- **C** 1st and 2nd year
+- **C** 1st 2nd and 3rd year
 - **C++** 2nd year
 - **JavaScript (JS)** 2nd year
-- **Java** 2nd year
-- **Assembly** 1st year
+- **Java** 2nd and 3rd year
+- **Assembly** 1st and 2nd year
 - **Prolog** 1st year
 
 ## 📊 Academic Performance
@@ -40,11 +40,11 @@ Aqui você encontrará uma coleção dos projetos acadêmicos que desenvolvi ao 
 Estes projetos demonstram minha experiência com diversas linguagens de programação, incluindo:
 
 - **Python** 1 e 2 ano
-- **C** 1 e 2 ano
+- **C** 1 a 3 ano
 - **C++** 2 ano
 - **JavaScript (JS)** 2 ano
-- **Java** 2 ano
-- **Assembly** 1 ano
+- **Java** 2 e 3 ano
+- **Assembly** 1 e 3 ano
 - **Prolog** 1 ano
 
 ## 📊 Desempenho Acadêmico

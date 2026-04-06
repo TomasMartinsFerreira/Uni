@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org"
+         xmlns:xsi="http://www.w3.org"
+         xsi:schemaLocation="http://maven.apache.org http://maven.apache.org">
+    <modelVersion>4.0.0</modelVersion>
+
+    <groupId>pt.tecnico.sdis.2026.T48</groupId>
+    <artifactId>common-utils</artifactId>
+    <version>1.0.0-SNAPSHOT</version>
+    <packaging>jar</packaging>
+
+    <properties>
+        <maven.compiler.source>11</maven.compiler.source>
+        <maven.compiler.target>11</maven.compiler.target>
+        <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+    </properties>
+    <dependencies>
+        <dependency>
+            <groupId>pt.tecnico.sdis.2026.T48</groupId>
+            <artifactId>contract</artifactId>
+            <version>1.0.0-SNAPSHOT</version>
+        </dependency>
+    </dependencies>
+</project>
+
